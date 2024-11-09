@@ -1,0 +1,42 @@
+QMainWindow {
+    background-color: #f0f0f0;
+}
+
+QMenuBar {
+    background-color: #ffffff;
+    border-bottom: 1px solid #d0d0d0;
+}
+
+QToolBar {
+    background-color: #ffffff;
+    border-bottom: 1px solid #d0d0d0;
+    spacing: 3px;
+}
+
+QStatusBar {
+    background-color: #ffffff;
+    border-top: 1px solid #d0d0d0;
+}
+
+QTextEdit {
+    background-color: #ffffff;
+    border: 1px solid #d0d0d0;
+    border-radius: 4px;
+}
+
+QTabWidget::pane {
+    border: 1px solid #d0d0d0;
+    border-radius: 4px;
+}
+
+QTabBar::tab {
+    background-color: #e0e0e0;
+    padding: 8px 12px;
+    margin-right: 2px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+QTabBar::tab:selected {
+    background-color: #ffffff;
+}
