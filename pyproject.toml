@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "enhanced-ocr-tool"
+name = "vision-assist-pro"
 version = "0.1.0"
 description = "Enhanced OCR tool with translation and summarization features"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Ayumu Harata <hrtaym1114@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
@@ -11,6 +11,7 @@ Pillow = "^10.0.0"
 python-dotenv = "^1.0.0"
 openai = "^1.12.0"
 pyperclip = "^1.9.0"
+screeninfo = "^0.8.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
