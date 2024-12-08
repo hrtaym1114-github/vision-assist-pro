@@ -69,4 +69,4 @@ MIT License
 
 ## 作者
 
-Ayumu Harata
+- GitHub: [@hrtaym1114-github](https://github.com/hrtaym1114-github)
